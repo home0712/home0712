@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://komarev.com/ghpvc/?username=home0712&color=green" />
 </p>
 
-<h4 align="center">:cloud:<ins>Tech Stacks</ins></h4>
+<h4 align="center">:cloud:<ins>Tech Stacks</ins>:cloud:</h4>
 <div class="grid" align="center">
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFF"/> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></br>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 
-<h4 align="center">:cloud:<ins>Stats</ins></h4>
+<h4 align="center">:cloud:<ins>Stats</ins>:cloud:</h4>
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=home0712&theme=dark&show_icons=true&hide=stars,issues" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=home0712&layout=donut" />
