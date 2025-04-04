@@ -1,5 +1,3 @@
-## Hi there 
-
 <!--
 **home0712/home0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +17,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://komarev.com/ghpvc/?username=home0712&color=green" />
 </p>
 
-<h4 align="center">:cloud:<ins>Tech Stacks</ins>:cloud:</h4>
-<div class="grid" align="center">
+<h4>:cloud:<ins>Tech Stacks</ins>:cloud:</h4>
+<div class="grid">
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFF"/> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"></br>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
@@ -37,8 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<h4 align="center">:cloud:<ins>Stats</ins>:cloud:</h4>
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=home0712&theme=dark&show_icons=true&hide=stars,issues" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=home0712&layout=donut" />
+<h4>:cloud:<ins>Stats</ins>:cloud:</h4>
+<p href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=home0712&theme=dark&show_icons=true&hide=stars,issues" />
 </p>
