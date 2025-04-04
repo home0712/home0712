@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">  
-  <img align="center" src="https://komarev.com/ghpvc/?username=home0712&color=green" />
-</p>
-
 <h4>:cloud:<ins>Tech Stacks</ins>:cloud:</h4>
 <div class="grid">
   <img src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=FFF"/> 
